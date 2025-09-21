@@ -1,1 +1,2 @@
 print("hazifeladat")
+print("vegre")
