@@ -1,0 +1,16 @@
+git init
+- helyi repository létrehozása (egyszer)
+
+git add .
+- a projektben lévő összes változtatást tegye a "színpadra" 
+git add<Fájlnév.kiterjesztés>
+-fájl név megadásával egy faájl módosítását is menthetjük
+
+git status
+- a módosításunk állapotát jelzi. Mi módosult illetve hogy színpadon van e.
+
+git commit -m "message"
+-Az állapot végleges lezárása
+
+-ha ki szeretnénk lépni bármilyen szerkesztőből.
+CTRL+C		
